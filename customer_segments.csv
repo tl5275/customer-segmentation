@@ -1,0 +1,5 @@
+CustomerID,Recency,Frequency,Monetary,Cluster
+1111,144,3,150.0,2
+2222,109,9,127.5,0
+3333,12,7,98.4,3
+4444,62,6,90.0,1
